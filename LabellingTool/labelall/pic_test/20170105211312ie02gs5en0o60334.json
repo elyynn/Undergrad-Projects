@@ -1,0 +1,29 @@
+{
+  "flags": {},
+  "shapes": [
+    {
+      "label": "default",
+      "points": [
+        [
+          930.2678288431053,
+          336.2202852614894
+        ],
+        [
+          1220.8541996830418,
+          333.17749603803463
+        ],
+        [
+          1140.2202852614885,
+          538.5657686212362
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "E:/pythonProject/334.jpg",
+  "imageData":"...",
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}
